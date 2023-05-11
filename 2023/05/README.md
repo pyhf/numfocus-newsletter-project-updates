@@ -4,7 +4,7 @@ We're happy to announce that [pyhf v0.7.1](https://github.com/scikit-hep/pyhf/re
 This is a small patch release with the following highlights:
 
 * All backends (SciPy, TensorFlow, PyTorch, JAX) are now fully compatible and tested with Python 3.11.
-* The tensorflow extra ('pyhf[tensorflow]') now automatically installs tensorflow-macos for Apple silicon machines.
+* The tensorflow extra ('pyhf[tensorflow]') now automatically installs [tensorflow-macos](https://pypi.org/project/tensorflow-macos/) for Apple silicon machines.
 
 Please see the [release notes](https://github.com/scikit-hep/pyhf/releases/tag/v0.7.1) for a full list of changes.
 
