@@ -1,4 +1,4 @@
-# [August 2023][newsletter] pyhf Project Update
+# [August / September 2023][newsletter] pyhf Project Update
 
 We're happy to announce that [pyhf v0.7.3](https://github.com/scikit-hep/pyhf/releases/tag/v0.7.3) is out on PyPI and Conda-forge ([Tweet](https://twitter.com/pyhf_/status/1692258901142413786))!
 This is a small patch release with the following highlights:
@@ -8,4 +8,4 @@ This is a small patch release with the following highlights:
 
 Please see the [release notes](https://github.com/scikit-hep/pyhf/releases/tag/v0.7.3) for a full list of changes.
 
-[newsletter]: https://numfocus.salsalabs.org/numfocus__newsletter_aug2023
+[newsletter]: https://numfocus.salsalabs.org/numfocus__newsletter_june2023_copy1
