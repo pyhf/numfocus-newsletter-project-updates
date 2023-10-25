@@ -1,20 +1,5 @@
 # [October / November 2023][newsletter] pyhf Project Update
 
-We're happy to announce that [pyhf v0.8.0rc1](https://github.com/scikit-hep/pyhf/releases/tag/0.8.0rc1) is out on PyPI ([Tweet](https://twitter.com/pyhf_/status/XXXXXXXXX))!
-This is a minor release candidate with the following highlights:
-
-* Experimental support for user defined custom modifiers has been added through an `experimental` extra installed through `'pyhf[experimental]'`.
-
-Please see the [release notes](https://github.com/scikit-hep/pyhf/releases/tag/0.8.0rc1) for a full list of changes.
-
-Please try out the release candidate with
-
-```
-python -m pip install --pre --upgrade pyhf
-```
-
-and give feedback.
-
 ## Upcoming events
 
 The inaugural [pyhf workshop for users and developers](https://indico.cern.ch/event/1294577/) will be held at CERN from **4 to 8 December, 2023**!
