@@ -9,4 +9,4 @@ This is a small patch release with the following highlights:
 
 Please see the [release notes](https://github.com/scikit-hep/pyhf/releases/) for a full list of changes.
 
-[newsletter]: https://numfocus.salsalabs.org/numfocus__newsletter_feb2024
+[newsletter]: https://numfocus.medium.com/whats-new-with-numfocus-projects-february-2024-fe253a5e843a
